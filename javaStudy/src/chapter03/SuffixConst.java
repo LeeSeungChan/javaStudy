@@ -1,4 +1,4 @@
-package chapter3;
+package chapter03;
 
 class SuffixConst{
 	public static void main(String[] args){
